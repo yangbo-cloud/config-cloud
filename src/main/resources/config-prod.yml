@@ -1,1 +1,2 @@
-config-prod  :  prod-version
+config: 
+  info: master branch.cloud-config/config-prod.yml version=1
